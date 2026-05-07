@@ -1,5 +1,6 @@
 # Little Lemon API Project
 
+<<<<<<< HEAD
 ## Features
 - Menu CRUD API
 - Booking API
@@ -25,3 +26,10 @@
 - Django
 - Django REST Framework
 - SQLite
+=======
+## Endpoints
+
+- /restaurant/menu/
+- /restaurant/booking/
+- /admin/
+>>>>>>> ba87bb0dc7c63dbf4b382e7c361b04132b3fffe0
